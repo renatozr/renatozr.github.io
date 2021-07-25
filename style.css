@@ -1,0 +1,48 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#descricao {
+    font-family: Verdana, sans-serif;
+    position: absolute;
+    top: 10px;
+    left: 330px;
+}
+
+body {
+    background-color: #d8f3dc;
+    padding: 3%;
+}
+
+a {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+strong {
+    font-weight: 800;
+}
+
+em {
+    font-style: oblique;
+}
+
+.softskills {
+    font-size: 20px;
+}
+
+#fotorenato {
+    float: left;
+    height: 330px;
+    padding: 10px;
+    background-color: #40916c;
+} 
+
+.image-container {
+    height: 350px;
+    position: relative;
+}
+
+#habilidades li:nth-child(odd) {
+    background-color: #40916c;
+}
