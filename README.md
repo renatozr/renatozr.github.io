@@ -1,4 +1,4 @@
 ### Meu portfólio
 Exercício do Módulo de Fundamentos, Trybe.
 
-[renatozr.github.io](renatozr.github.io)
+[https://renatozr.github.io/](https://renatozr.github.io/)
